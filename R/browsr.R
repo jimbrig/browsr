@@ -11,7 +11,10 @@
 #'
 #' @keywords search_engines
 #'
+#' @export
+#'
 #' @examples
+#' library(browsr)
 #' # default search on google
 #' search_online("polished.tech")
 #'

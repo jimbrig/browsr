@@ -84,6 +84,7 @@ advanced search feature to query only R-Project domain sites via the
 }}
 
 \examples{
+library(browsr)
 # default search on google
 search_online("polished.tech")
 

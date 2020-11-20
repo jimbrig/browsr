@@ -9,6 +9,8 @@ Authors@R:
            comment = c(ORCID = "0000-0002-7489-8787"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
+Imports: 
+    utils
 Encoding: UTF-8
 Language: en-US
 LazyData: true
